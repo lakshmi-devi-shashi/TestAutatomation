@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="31" passed="31">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59033" started-at="2021-06-02T16:47:41 IST" finished-at="2021-06-02T16:48:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59033" started-at="2021-06-02T16:47:41 IST" finished-at="2021-06-02T16:48:40 IST">
+      <class name="com.sgtesting.assignment.AssignmentDemoQa1">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="launchBrowser" duration-ms="6600" started-at="2021-06-02T16:47:41 IST" finished-at="2021-06-02T16:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="navigate" duration-ms="6791" started-at="2021-06-02T16:47:48 IST" finished-at="2021-06-02T16:47:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="Adminlogin()[pri:3, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="Adminlogin" duration-ms="2252" started-at="2021-06-02T16:47:55 IST" finished-at="2021-06-02T16:47:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adminlogin -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="minimizeFlyOutWindow" duration-ms="1131" started-at="2021-06-02T16:47:57 IST" finished-at="2021-06-02T16:47:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="User1()[pri:5, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1" duration-ms="13108" started-at="2021-06-02T16:47:58 IST" finished-at="2021-06-02T16:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1 -->
+        <test-method status="PASS" signature="logout()[pri:6, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="logout" duration-ms="2315" started-at="2021-06-02T16:48:11 IST" finished-at="2021-06-02T16:48:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="User1Loging()[pri:7, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1Loging" duration-ms="7833" started-at="2021-06-02T16:48:14 IST" finished-at="2021-06-02T16:48:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1Loging -->
+        <test-method status="PASS" signature="User2()[pri:8, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2" duration-ms="1162" started-at="2021-06-02T16:48:22 IST" finished-at="2021-06-02T16:48:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2 -->
+        <test-method status="PASS" signature="User1logout()[pri:9, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1logout" duration-ms="1135" started-at="2021-06-02T16:48:23 IST" finished-at="2021-06-02T16:48:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1logout -->
+        <test-method status="PASS" signature="User2Loging()[pri:10, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2Loging" duration-ms="40" started-at="2021-06-02T16:48:24 IST" finished-at="2021-06-02T16:48:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2Loging -->
+        <test-method status="PASS" signature="User3()[pri:11, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User3" duration-ms="1134" started-at="2021-06-02T16:48:24 IST" finished-at="2021-06-02T16:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3 -->
+        <test-method status="PASS" signature="User3Logout()[pri:12, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User3Logout" duration-ms="1156" started-at="2021-06-02T16:48:25 IST" finished-at="2021-06-02T16:48:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3Logout -->
+        <test-method status="PASS" signature="Admin1login()[pri:13, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="Admin1login" duration-ms="24" started-at="2021-06-02T16:48:26 IST" finished-at="2021-06-02T16:48:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin1login -->
+        <test-method status="PASS" signature="ModifyUser1()[pri:14, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="ModifyUser1" duration-ms="1153" started-at="2021-06-02T16:48:26 IST" finished-at="2021-06-02T16:48:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyUser1 -->
+        <test-method status="PASS" signature="Admin1logout()[pri:15, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="Admin1logout" duration-ms="1128" started-at="2021-06-02T16:48:27 IST" finished-at="2021-06-02T16:48:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin1logout -->
+        <test-method status="PASS" signature="User1LogingAgain()[pri:16, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1LogingAgain" duration-ms="39" started-at="2021-06-02T16:48:29 IST" finished-at="2021-06-02T16:48:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1LogingAgain -->
+        <test-method status="PASS" signature="ModifyUser2()[pri:17, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="ModifyUser2" duration-ms="1101" started-at="2021-06-02T16:48:29 IST" finished-at="2021-06-02T16:48:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyUser2 -->
+        <test-method status="PASS" signature="User1logoutAgain()[pri:18, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1logoutAgain" duration-ms="1130" started-at="2021-06-02T16:48:30 IST" finished-at="2021-06-02T16:48:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1logoutAgain -->
+        <test-method status="PASS" signature="User2LogingAgain()[pri:20, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2LogingAgain" duration-ms="44" started-at="2021-06-02T16:48:31 IST" finished-at="2021-06-02T16:48:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2LogingAgain -->
+        <test-method status="PASS" signature="ModifyUser3()[pri:21, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="ModifyUser3" duration-ms="1083" started-at="2021-06-02T16:48:31 IST" finished-at="2021-06-02T16:48:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyUser3 -->
+        <test-method status="PASS" signature="User2LogoutAgain()[pri:22, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2LogoutAgain" duration-ms="1093" started-at="2021-06-02T16:48:32 IST" finished-at="2021-06-02T16:48:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2LogoutAgain -->
+        <test-method status="PASS" signature="User2LogingAgainAgain()[pri:23, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2LogingAgainAgain" duration-ms="62" started-at="2021-06-02T16:48:33 IST" finished-at="2021-06-02T16:48:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2LogingAgainAgain -->
+        <test-method status="PASS" signature="deleteUser3()[pri:24, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="deleteUser3" duration-ms="1113" started-at="2021-06-02T16:48:33 IST" finished-at="2021-06-02T16:48:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser3 -->
+        <test-method status="PASS" signature="User2LogoutAgainAgain()[pri:25, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User2LogoutAgainAgain" duration-ms="1133" started-at="2021-06-02T16:48:34 IST" finished-at="2021-06-02T16:48:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2LogoutAgainAgain -->
+        <test-method status="PASS" signature="User1LogingAgainAgain()[pri:26, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1LogingAgainAgain" duration-ms="36" started-at="2021-06-02T16:48:35 IST" finished-at="2021-06-02T16:48:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1LogingAgainAgain -->
+        <test-method status="PASS" signature="deleteUser2()[pri:27, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="deleteUser2" duration-ms="1185" started-at="2021-06-02T16:48:35 IST" finished-at="2021-06-02T16:48:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser2 -->
+        <test-method status="PASS" signature="User1logoutAgainAgain()[pri:28, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="User1logoutAgainAgain" duration-ms="1111" started-at="2021-06-02T16:48:37 IST" finished-at="2021-06-02T16:48:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1logoutAgainAgain -->
+        <test-method status="PASS" signature="Admin1loginAgain()[pri:29, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="Admin1loginAgain" duration-ms="65" started-at="2021-06-02T16:48:38 IST" finished-at="2021-06-02T16:48:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin1loginAgain -->
+        <test-method status="PASS" signature="deleteUser1()[pri:30, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="deleteUser1" duration-ms="1106" started-at="2021-06-02T16:48:38 IST" finished-at="2021-06-02T16:48:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser1 -->
+        <test-method status="PASS" signature="Admin1logoutAgainAgain()[pri:31, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="Admin1logoutAgainAgain" duration-ms="1148" started-at="2021-06-02T16:48:39 IST" finished-at="2021-06-02T16:48:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin1logoutAgainAgain -->
+        <test-method status="PASS" signature="closeApplication()[pri:32, instance:com.sgtesting.assignment.AssignmentDemoQa1@71bbf57e]" name="closeApplication" duration-ms="386" started-at="2021-06-02T16:48:40 IST" finished-at="2021-06-02T16:48:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgtesting.assignment.AssignmentDemoQa1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

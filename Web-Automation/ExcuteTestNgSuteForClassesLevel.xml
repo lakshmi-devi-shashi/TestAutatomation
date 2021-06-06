@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation">
+   <test name="Users and Products senarios">
+   <classes>
+   
+   <class name="com.sgtesting.assignment.AssignmentDemoQa1">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa2">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa3">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa4">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa5">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa6">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa7">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa8">
+   </class>
+   <class name="com.sgtesting.assignment.AssignmentDemoQa9">
+   </class>
+   </classes>
+   </test>
+</suite>

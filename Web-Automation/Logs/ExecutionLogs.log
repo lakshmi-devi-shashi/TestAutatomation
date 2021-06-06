@@ -1,0 +1,210 @@
+2021-06-02 18:43:35 INFO  For Loop Output:10 - The Execution of For Loop Starts Here!!!!!
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :20
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :22
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :24
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :26
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :28
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :30
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :32
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :34
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :36
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :38
+2021-06-02 18:43:35 INFO  For Loop Output:14 - The Even Number is :40
+2021-06-02 18:43:35 INFO  For Loop Output:17 - The Execution of For Loop ends Here!!!!!
+2021-06-02 22:31:25 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-02 22:31:35 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-02 22:31:36 INFO  ActiveTime Execution:44 - It launches the ActiveTime
+2021-06-02 22:31:41 INFO  ActiveTime Execution:57 - It login the using user name and password!!!!!
+2021-06-02 22:31:43 INFO  ActiveTime Execution:63 - Click the login button
+2021-06-02 22:31:44 INFO  ActiveTime Execution:76 - It minimize the flyOut Window
+2021-06-02 22:31:45 INFO  ActiveTime Execution:88 - click on the user link
+2021-06-02 22:31:47 INFO  ActiveTime Execution:91 - click on add user button
+2021-06-02 22:31:48 INFO  ActiveTime Execution:94 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-02 22:31:56 INFO  ActiveTime Execution:110 - It Ends with creating new user
+2021-06-02 22:31:56 INFO  ActiveTime Execution:125 - modifies the users
+2021-06-02 22:31:57 INFO  ActiveTime Execution:145 - delete the users
+2021-06-02 22:31:58 INFO  ActiveTime Execution:168 - logout the activetime
+2021-06-02 22:31:59 INFO  ActiveTime Execution:180 - close the browser
+2021-06-02 22:32:59 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-02 22:33:01 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-02 22:33:01 INFO  ActiveTime Execution:44 - It launches the ActiveTime
+2021-06-02 22:33:05 INFO  ActiveTime Execution:57 - It login the using user name and password!!!!!
+2021-06-02 22:33:07 INFO  ActiveTime Execution:63 - Click the login button
+2021-06-02 22:33:08 INFO  ActiveTime Execution:76 - It minimize the flyOut Window
+2021-06-02 22:33:09 INFO  ActiveTime Execution:88 - click on the user link
+2021-06-02 22:33:11 INFO  ActiveTime Execution:91 - click on add user button
+2021-06-02 22:33:12 INFO  ActiveTime Execution:94 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-02 22:33:19 INFO  ActiveTime Execution:110 - It Ends with creating new user
+2021-06-02 22:33:19 INFO  ActiveTime Execution:125 - modifies the users
+2021-06-02 22:33:25 INFO  ActiveTime Execution:145 - delete the users
+2021-06-02 22:33:27 INFO  ActiveTime Execution:150 - used alert class to delete the user!!!!
+2021-06-02 22:33:28 INFO  ActiveTime Execution:168 - logout the activetime
+2021-06-02 22:33:28 INFO  ActiveTime Execution:180 - close the browser
+2021-06-02 22:36:12 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-02 22:36:15 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-02 22:36:15 INFO  ActiveTime Execution:44 - It launches the ActiveTime
+2021-06-02 22:36:18 INFO  ActiveTime Execution:57 - It login the using user name and password!!!!!
+2021-06-02 22:36:20 INFO  ActiveTime Execution:63 - Click the login button
+2021-06-02 22:36:21 INFO  ActiveTime Execution:76 - It minimize the flyOut Window
+2021-06-02 22:36:21 INFO  ActiveTime Execution:88 - click on the user link
+2021-06-02 22:36:24 INFO  ActiveTime Execution:91 - click on add user button
+2021-06-02 22:36:25 INFO  ActiveTime Execution:94 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-02 22:36:33 INFO  ActiveTime Execution:110 - It Ends with creating new user
+2021-06-02 22:36:33 INFO  ActiveTime Execution:125 - modifies the users
+2021-06-02 22:36:38 INFO  ActiveTime Execution:145 - delete the users
+2021-06-02 22:36:40 INFO  ActiveTime Execution:150 - used alert class to delete the user!!!!
+2021-06-02 22:36:41 INFO  ActiveTime Execution:168 - logout the activetime
+2021-06-02 22:36:41 INFO  ActiveTime Execution:180 - close the browser
+2021-06-02 22:39:38 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-02 22:39:40 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-02 22:39:40 INFO  ActiveTime Execution:44 - It launches the ActiveTime
+2021-06-02 22:39:43 INFO  ActiveTime Execution:57 - It login the using user name and password!!!!!
+2021-06-02 22:39:45 INFO  ActiveTime Execution:63 - Click the login button
+2021-06-02 22:39:46 INFO  ActiveTime Execution:76 - It minimize the flyOut Window
+2021-06-02 22:39:47 INFO  ActiveTime Execution:88 - click on the user link
+2021-06-02 22:39:49 INFO  ActiveTime Execution:91 - click on add user button
+2021-06-02 22:39:50 INFO  ActiveTime Execution:94 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-02 22:39:58 INFO  ActiveTime Execution:110 - It Ends with creating new user
+2021-06-02 22:39:58 INFO  ActiveTime Execution:125 - modifies the users
+2021-06-02 22:40:03 INFO  ActiveTime Execution:145 - delete the users
+2021-06-02 22:40:05 INFO  ActiveTime Execution:150 - used alert class to delete the user!!!!
+2021-06-02 22:40:06 INFO  ActiveTime Execution:168 - logout the activetime
+2021-06-02 22:40:07 INFO  ActiveTime Execution:180 - close the browser
+2021-06-02 22:40:07 INFO  ActiveTime Execution:181 - *******************************************************
+2021-06-03 20:54:39 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-03 20:54:42 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-03 20:54:42 INFO  ActiveTime Execution:44 - It launches the ActiveTime
+2021-06-03 20:54:47 INFO  ActiveTime Execution:57 - It login the using user name and password!!!!!
+2021-06-03 20:54:49 INFO  ActiveTime Execution:63 - Click the login button
+2021-06-03 20:54:50 INFO  ActiveTime Execution:76 - It minimize the flyOut Window
+2021-06-03 20:54:53 INFO  ActiveTime Execution:88 - click on the user link
+2021-06-03 20:54:55 INFO  ActiveTime Execution:91 - click on add user button
+2021-06-03 20:54:57 INFO  ActiveTime Execution:94 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-03 20:55:04 INFO  ActiveTime Execution:110 - It Ends with creating new user
+2021-06-03 20:55:05 INFO  ActiveTime Execution:125 - modifies the users
+2021-06-03 20:55:10 INFO  ActiveTime Execution:145 - delete the users
+2021-06-03 20:55:12 INFO  ActiveTime Execution:150 - used alert class to delete the user!!!!
+2021-06-03 20:55:13 INFO  ActiveTime Execution:168 - logout the activetime
+2021-06-03 20:55:13 INFO  ActiveTime Execution:180 - close the browser
+2021-06-03 20:55:13 INFO  ActiveTime Execution:181 - *******************************************************
+2021-06-03 22:08:21 INFO  ActiveTime Execution:34 - It launches the ChromeDriver
+2021-06-03 22:08:23 INFO  ActiveTime Execution:36 - It Maximize the window!!!!!!
+2021-06-03 22:08:23 INFO  ActiveTime Execution:50 - It launches the ActiveTime
+2021-06-03 22:08:26 INFO  ActiveTime Execution:63 - It login the using user name and password!!!!!
+2021-06-03 22:08:28 INFO  ActiveTime Execution:69 - Click the login button
+2021-06-03 22:08:29 INFO  ActiveTime Execution:82 - It minimize the flyOut Window
+2021-06-03 22:08:29 INFO  ActiveTime Execution:94 - click on the user link
+2021-06-03 22:08:32 INFO  ActiveTime Execution:97 - click on add user button
+2021-06-03 22:08:33 INFO  ActiveTime Execution:100 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-03 22:08:41 INFO  ActiveTime Execution:116 - It Ends with creating new user
+2021-06-03 22:08:41 INFO  ActiveTime Execution:131 - modifies the users
+2021-06-03 22:08:46 INFO  ActiveTime Execution:151 - delete the users
+2021-06-03 22:08:48 INFO  ActiveTime Execution:156 - used alert class to delete the user!!!!
+2021-06-03 22:08:49 INFO  ActiveTime Execution:174 - logout the activetime
+2021-06-03 22:08:50 INFO  ActiveTime Execution:186 - close the browser
+2021-06-03 22:08:50 INFO  ActiveTime Execution:187 - *******************************************************
+2021-06-03 22:20:00 INFO  ActiveTime Execution:30 - It launches the ChromeDriver
+2021-06-03 22:20:02 INFO  ActiveTime Execution:32 - It Maximize the window!!!!!!
+2021-06-03 22:20:02 INFO  ActiveTime Execution:34 -                                
+2021-06-03 22:20:02 INFO  ActiveTime Execution:45 - It navigate to the ActiveTime
+2021-06-03 22:20:05 INFO  ActiveTime Execution:58 - It login the using user name and password!!!!!
+2021-06-03 22:20:07 INFO  ActiveTime Execution:64 - Click the login button
+2021-06-03 22:20:08 INFO  ActiveTime Execution:67 -                            
+2021-06-03 22:20:08 INFO  ActiveTime Execution:78 - It minimize the flyOut Window
+2021-06-03 22:20:08 INFO  ActiveTime Execution:90 - click on the user link
+2021-06-03 22:20:10 INFO  ActiveTime Execution:93 - click on add user button
+2021-06-03 22:20:12 INFO  ActiveTime Execution:96 - Enter the user details like firstname,lastname,emailid,username,pasword and retype password!!!!!!!!
+2021-06-03 22:20:19 INFO  ActiveTime Execution:112 -                                                     
+2021-06-03 22:20:19 INFO  ActiveTime Execution:127 - modifies the users
+2021-06-03 22:20:25 INFO  ActiveTime Execution:136 -                                     
+2021-06-03 22:20:25 INFO  ActiveTime Execution:148 - delete the users
+2021-06-03 22:20:27 INFO  ActiveTime Execution:153 - used alert class to delete the user!!!!
+2021-06-03 22:20:27 INFO  ActiveTime Execution:155 - switch the alert
+2021-06-03 22:20:27 INFO  ActiveTime Execution:157 - get the text
+2021-06-03 22:20:27 INFO  ActiveTime Execution:159 - click on ok or cancel
+2021-06-03 22:20:28 INFO  ActiveTime Execution:162 -                           
+2021-06-03 22:20:28 INFO  ActiveTime Execution:175 - logout the activetime
+2021-06-03 22:20:28 INFO  ActiveTime Execution:187 - close the browser
+2021-06-03 22:20:28 INFO  ActiveTime Execution:188 - ********************************************************
+2021-06-04 15:33:18 INFO  ActiveTime Execution:19 - get the user directory
+2021-06-04 15:33:18 INFO  ActiveTime Execution:22 - launch the chrome Browser
+2021-06-04 15:33:20 INFO  ActiveTime Execution:24 - maxmize the chrome window
+2021-06-04 15:33:21 INFO  ActiveTime Execution:27 -                              
+2021-06-04 15:33:21 INFO  ActiveTime Execution:38 - navigate to the url activetime
+2021-06-04 15:33:23 INFO  ActiveTime Execution:51 - longin to the active time as admin 
+2021-06-04 15:33:24 INFO  ActiveTime Execution:54 - longin to the active time as admin and enter password 
+2021-06-04 15:33:25 INFO  ActiveTime Execution:58 - click on submit
+2021-06-04 15:33:26 INFO  ActiveTime Execution:72 - minimize the flyout window in active time page 
+2021-06-04 15:33:26 INFO  ActiveTime Execution:85 -  To create the new user click on the task
+2021-06-04 15:33:28 INFO  ActiveTime Execution:88 - click on the add newuser
+2021-06-04 15:33:30 INFO  ActiveTime Execution:94 - Enter the new user name and password
+2021-06-04 15:33:34 INFO  ActiveTime Execution:112 - Delete the created user
+2021-06-04 15:33:39 INFO  ActiveTime Execution:133 - logout active time 
+2021-06-04 15:33:41 INFO  ActiveTime Execution:146 - close the browser
+2021-06-04 15:45:32 INFO  ActiveTime Execution:20 - launch the browser
+2021-06-04 15:45:35 INFO  ActiveTime Execution:36 - navigate to the Active time URL
+2021-06-04 15:45:37 INFO  ActiveTime Execution:49 - Login to the ActiveTime using user name and password
+2021-06-04 16:40:58 INFO  ActiveTime Execution:25 - launch the browser
+2021-06-04 16:40:58 INFO  ActiveTime Execution:48 - navigate to the Active time URL
+2021-06-04 16:40:58 INFO  ActiveTime Execution:63 - Login to the ActiveTime using user name and password
+2021-06-04 16:40:58 INFO  ActiveTime Execution:85 - after login minimize the flyout window
+2021-06-04 16:40:58 INFO  ActiveTime Execution:101 -  To add the new user click on task
+2021-06-04 16:40:58 INFO  ActiveTime Execution:133 - Modify the customer
+2021-06-04 16:40:58 INFO  ActiveTime Execution:155 - Delete the user click on the title
+2021-06-04 16:40:58 INFO  ActiveTime Execution:183 - logout the activeTime
+2021-06-04 16:40:58 INFO  ActiveTime Execution:199 - close the browser
+2021-06-04 16:43:37 INFO  ActiveTime Execution:22 - launch the browser
+2021-06-04 16:43:37 INFO  ActiveTime Execution:45 - navigate to the Active time URL
+2021-06-04 16:43:37 INFO  ActiveTime Execution:60 - Login to the ActiveTime using user name and password
+2021-06-04 16:43:37 INFO  ActiveTime Execution:81 - after login minimize the flyout window
+2021-06-04 16:43:37 INFO  ActiveTime Execution:97 -  To add the new user click on task
+2021-06-04 16:43:37 INFO  ActiveTime Execution:129 - Modify the customer
+2021-06-04 16:43:37 INFO  ActiveTime Execution:151 - Delete the user click on the title
+2021-06-04 16:43:37 INFO  ActiveTime Execution:179 - logout the activeTime
+2021-06-04 16:43:37 INFO  ActiveTime Execution:195 - close the browser
+2021-06-04 16:44:20 INFO  ActiveTime Execution:22 - launch the browser
+2021-06-04 16:44:20 INFO  ActiveTime Execution:60 - Login to the ActiveTime using user name and password
+2021-06-04 16:44:20 INFO  ActiveTime Execution:81 - after login minimize the flyout window
+2021-06-04 16:44:20 INFO  ActiveTime Execution:97 -  To add the new user click on task
+2021-06-04 16:44:20 INFO  ActiveTime Execution:129 - Modify the customer
+2021-06-04 16:44:20 INFO  ActiveTime Execution:151 - Delete the user click on the title
+2021-06-04 16:44:20 INFO  ActiveTime Execution:179 - logout the activeTime
+2021-06-04 16:44:20 INFO  ActiveTime Execution:195 - close the browser
+2021-06-04 16:45:10 INFO  ActiveTime Execution:22 - launch the browser
+2021-06-04 16:45:10 INFO  ActiveTime Execution:45 - navigate to the Active time URL
+2021-06-04 16:45:10 INFO  ActiveTime Execution:60 - Login to the ActiveTime using user name and password
+2021-06-04 16:45:10 INFO  ActiveTime Execution:81 - after login minimize the flyout window
+2021-06-04 16:45:10 INFO  ActiveTime Execution:97 -  To add the new user click on task
+2021-06-04 16:45:10 INFO  ActiveTime Execution:129 - Modify the customer
+2021-06-04 16:45:10 INFO  ActiveTime Execution:151 - Delete the user click on the title
+2021-06-04 16:45:10 INFO  ActiveTime Execution:179 - logout the activeTime
+2021-06-04 16:45:10 INFO  ActiveTime Execution:195 - close the browser
+2021-06-04 16:50:07 INFO  ActiveTime Execution:20 - launch the browser
+2021-06-04 16:50:10 INFO  ActiveTime Execution:26 -               
+2021-06-04 16:50:10 INFO  ActiveTime Execution:37 - navigate to the Active time URL
+2021-06-04 16:50:12 INFO  ActiveTime Execution:40 -               
+2021-06-04 16:50:12 INFO  ActiveTime Execution:51 - Login to the ActiveTime using user name and password
+2021-06-04 16:50:15 INFO  ActiveTime Execution:59 -               
+2021-06-04 16:50:15 INFO  ActiveTime Execution:71 - after login minimize the flyout window
+2021-06-04 16:50:16 INFO  ActiveTime Execution:73 -               
+2021-06-04 16:50:16 INFO  ActiveTime Execution:85 -  To add the new user click on task
+2021-06-04 16:50:17 INFO  ActiveTime Execution:88 - click on the add new user
+2021-06-04 16:50:18 INFO  ActiveTime Execution:91 - create the new customer
+2021-06-04 16:50:20 INFO  ActiveTime Execution:94 - Enter the user name
+2021-06-04 16:50:21 INFO  ActiveTime Execution:97 - Enter the project decriptions
+2021-06-04 16:50:22 INFO  ActiveTime Execution:100 - click on create customer
+2021-06-04 16:50:23 INFO  ActiveTime Execution:103 -               
+2021-06-04 16:50:23 INFO  ActiveTime Execution:115 - Modify the customer
+2021-06-04 16:50:24 INFO  ActiveTime Execution:118 - Modify the project description
+2021-06-04 16:50:25 INFO  ActiveTime Execution:121 - click on edit button
+2021-06-04 16:50:27 INFO  ActiveTime Execution:124 -               
+2021-06-04 16:50:27 INFO  ActiveTime Execution:135 - Delete the user click on the title
+2021-06-04 16:50:28 INFO  ActiveTime Execution:138 - click on the edit button
+2021-06-04 16:50:29 INFO  ActiveTime Execution:141 - click on actions
+2021-06-04 16:50:30 INFO  ActiveTime Execution:144 - click on delete
+2021-06-04 16:50:31 INFO  ActiveTime Execution:147 - click on delete permanently
+2021-06-04 16:50:34 INFO  ActiveTime Execution:150 -               
+2021-06-04 16:50:34 INFO  ActiveTime Execution:161 - logout the activeTime
+2021-06-04 16:50:36 INFO  ActiveTime Execution:164 -               
+2021-06-04 16:50:36 INFO  ActiveTime Execution:175 - close the browser
+2021-06-04 16:50:36 INFO  ActiveTime Execution:177 -               
